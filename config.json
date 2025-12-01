@@ -1,5 +1,5 @@
 {
-    "sens": 26,
+    "sens": 16,
     "threshold": 35,
     "sell_command": "/pesca sellall",
     "stop_repeats": "4",
