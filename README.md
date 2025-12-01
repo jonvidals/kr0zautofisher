@@ -39,7 +39,7 @@ https://github.com/jonvidals/kr0zautofisher/raw/main/dist/krozautofish.exe
 
 All files are open source and available for modification in:
 
-`/src/KrozAutoFisher.py`
+https://github.com/jonvidals/kr0zautofisher/blob/main/krozautofish.py
 
 You are free to fork, modify, contribute and redistribute.
 
