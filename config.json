@@ -1,0 +1,7 @@
+{
+    "sens": 26,
+    "threshold": 35,
+    "sell_command": "/pesca sellall",
+    "stop_repeats": "4",
+    "hotkey": "f8"
+}
