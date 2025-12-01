@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['KrozAutoFish.py'],
+    ['krozautofish.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='KrozAutoFish',
+    name='krozautofish',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
